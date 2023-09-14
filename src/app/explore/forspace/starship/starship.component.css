@@ -1,0 +1,25 @@
+.baner{
+    width: 100%;
+    height: 80vh;
+
+    display: flex;
+
+}
+.baner h4{
+    font-size: 4em;
+    color: aliceblue;
+    text-shadow: 0 0 30px #000000 , 0 0 30px #000000 ;
+}
+.wrap{
+    margin-top: 10px;
+    padding-bottom: 700px;
+    display: block;
+    border: solid rgba(228, 228, 228, 0.377);
+    margin-left: 60px;
+}
+p{
+    color: white;
+    align-items: center;
+    
+
+}
